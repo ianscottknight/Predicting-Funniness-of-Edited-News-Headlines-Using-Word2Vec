@@ -1,0 +1,17 @@
+# basic
+__pycache__
+.DS_Store
+.ipynb_checkpoints
+
+# data due to potentially large files
+data/*
+!data/.gitkeep
+
+# virtual environment folder
+venv/
+
+# environment variables
+.env
+
+# scratchpad files
+scratchpad*.py
